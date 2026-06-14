@@ -3,6 +3,7 @@ A prototype spider robot with leg stabilization mechanisms. Work in progress doc
 
 **Video demos:**
 https://youtube.com/shorts/J5rAIZbxhh4?feature=share
+
 https://youtube.com/shorts/_QNONGRYIa8?feature=share
 
 
