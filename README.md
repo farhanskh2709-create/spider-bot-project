@@ -1,6 +1,11 @@
 # Spider Robot Project
 A prototype spider robot with leg stabilization mechanisms. Work in progress documenting design iterations, errors, and solutions.
 
+**Video demos:**
+https://youtube.com/shorts/J5rAIZbxhh4?feature=share
+https://youtube.com/shorts/_QNONGRYIa8?feature=share
+
+
 ## Current Status
 
 It doesn't walk. The front right leg has a problem - one of its servos stretches straight when powered on. The robot can't stand because of this.
