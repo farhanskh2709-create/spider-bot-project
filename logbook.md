@@ -57,6 +57,27 @@ I built a quadruped spider robot. 4 legs, 12 servos. Here is everything that wen
 **What I learned from this failure:** Debugging is not linear. Sometimes you try everything and still don't know the answer. That's okay. You keep going.
 
 ---
+## Error 5: The Soldering Disaster
+
+**What happened:** I needed to solder connections for the stepdown module and power supply. I had never soldered before.
+
+I bought a 60W soldering iron because it was cheap. BIG MISTAKE.
+
+I tried soldering the wires to the stepdown module. The iron was too hot. I burned the module. Completely destroyed it. Smoke came out. Had to throw it away.
+
+**What I learned the hard way:** 60W is too powerful for small electronics work. It heats up too fast and transfers too much heat. It will burn components before you even realize what happened.
+
+**How I fixed it:** I bought a 30W soldering iron instead. Much better for small work.
+
+I also bought flux and watched tutorials on how to use it properly. Learned that flux helps the solder flow and stick to the right places. Without flux, solder just balls up and falls off.
+
+**What I learned:** 
+- Use the right tool for the job. 30W iron for electronics, not 60W.
+- Flux is not optional. It makes soldering actually work.
+- Practice on old wires before soldering your actual project.
+- Soldering is a skill. You have to learn it like anything else.
+
+**Aftermath:** The second step-down module is soldered correctly. No burns. Clean joints. Works perfectly.
 
 ## Summary of What I Learned
 
@@ -66,3 +87,5 @@ I built a quadruped spider robot. 4 legs, 12 servos. Here is everything that wen
 | Loose screws | Get the right part sizes before building |
 | Horn gaps | 3D prints need test fitting |
 | Dead leg | Some problems take a long time to solve |
+| Burned module with 60W iron | Use 30W iron for electronics. Learn soldering before using it. |
+
